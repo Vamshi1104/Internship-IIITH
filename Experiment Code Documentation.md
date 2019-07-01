@@ -70,7 +70,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 **Arguments-** None
 
-- **●●**** Function-laminarAnimate**
+- **Function-laminarAnimate**
 
 **What it does**** -**It produces an animation of flowing water(Laminar) through the pipe.
 
@@ -86,19 +86,19 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 **Arguments-** None
 
-- **●●**** Function-transitionalLine**
+- **Function-transitionalLine**
 
 **What it does-** This function is used to simulate the flow of dye from the dye container when there is a transitional flow.
 
 **Arguments-** None
 
-- **●●**** Function-transitionalAnimate**
+- **Function-transitionalAnimate**
 
 **What it does-** It produces an animation of flowing water(Transitional) through the pipe.
 
 **Arguments-** None
 
-  ![](images/transitionalanimate.JPG)
+  ![](images/transitional.JPG)
 
                         **Fig 7-transitionalAnimate and transitionalFlow**
 
@@ -166,7 +166,7 @@ reynum is the reynolds number set by rno function.
 
 **Argument-** None.
 
- ![](images/calculations.JPG)
+ ![](images/performcalculations.JPG)
 
                                           **Fig-9 Calculations**
 
