@@ -132,7 +132,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 **Arguments-** None
 
-Functions implementing calculations
+**Functions implementing calculations**
 
 - **Function-main**
 
