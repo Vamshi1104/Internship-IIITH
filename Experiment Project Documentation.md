@@ -8,7 +8,7 @@ This  document captures the technical details related to the experiment developm
 
 **Domain Name :** Computer Science &amp; Engineering
 
-**Lab Name :  ** Hydraulics and Fluid Mechanics
+**Lab Name :**  Hydraulics and Fluid Mechanics
 
 **Experiment Name :** Reynolds Experiment
 
@@ -30,7 +30,7 @@ The purpose of the project is to convert the **Reynolds** experiment simulation 
 
 
 
-**Project Developers Details  **
+**Project Developers Details**
 
 | **S.NO** | **Names** | **Year of Study** | **Email-ID** | **GitHub handle** |
 | --- | --- | --- | --- | --- |
