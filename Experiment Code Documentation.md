@@ -12,7 +12,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
  ![](images/drawMain.JPG)
 
- **Fig 1-Static simulator**
+   **Fig 1-Static simulator**
 
 **What it does-** This function is used for the outline and filling of the 2d drawing i.e to build a static drawing using coordinates as shown in fig-1.
 
@@ -25,8 +25,8 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 - **Function-draw**
 
  ![](images/draw.JPG)
-
-                       **Fig 2-The draw function**
+                                
+**Fig 2-The draw function**
 
 **What it does-** This function is used as a generalized function for drawing of lines.
 
@@ -40,13 +40,13 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 **x2,y2-** Destination coordinate
 
-- **●●**** Function-heading**
+-  **Function-heading**
 
  ![](images/heading.JPG)
 
-                  **Fig 3-The heading function**
+   **Fig 3-The heading function**
 
-**What it does**** -**This function is used to change the heading of the simulation as per the selected flow.
+**What it does** -This function is used to change the heading of the simulation as per the selected flow.
 
 **Arguments-**
 
@@ -72,7 +72,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 - **Function-laminarAnimate**
 
-**What it does**** -**It produces an animation of flowing water(Laminar) through the pipe.
+**What it does** -It produces an animation of flowing water(Laminar) through the pipe.
 
 **Arguments-** None
 
@@ -82,7 +82,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 - **Function-laminarDisappear**
 
-**What it does-** It calls disappear(),laminarLine(),laminarAnimate() functions.
+**What it does**- It calls disappear(),laminarLine(),laminarAnimate() functions.
 
 **Arguments-** None
 
@@ -100,7 +100,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
   ![](images/transitional.JPG)
 
-                        **Fig 7-transitionalAnimate and transitionalFlow**
+   **Fig 7-transitionalAnimate and transitionalFlow**
 
 
 
@@ -124,7 +124,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 ![](images/turbulentanimate.JPG)
 
-                        **Fig 7-turbulentAnimate and turbulentFlow**
+ **Fig 7-turbulentAnimate and turbulentFlow**
 
 - **Function-turbulentDisappear**
 
@@ -168,7 +168,7 @@ reynum is the reynolds number set by rno function.
 
  ![](images/performcalculations.JPG)
 
-                                          **Fig-9 Calculations**
+   **Fig-9 Calculations**
 
 
 
