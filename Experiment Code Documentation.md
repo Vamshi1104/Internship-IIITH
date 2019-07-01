@@ -12,7 +12,7 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
  ![](images/Calculations.JPG)
 
-**Fig 1-Static simulator**
+          **Fig 1-Static simulator**
 
 **What it does-** This function is used for the outline and filling of the 2d drawing i.e to build a static drawing using coordinates as shown in fig-1.
 
