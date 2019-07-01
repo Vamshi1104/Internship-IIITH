@@ -166,7 +166,7 @@ reynum is the reynolds number set by rno function.
 
 **Argument-** None.
 
- ![](images/performcalculations.JPG)
+ ![](images/Calculations.JPG)
 
    **Fig-9 Calculations**
 
