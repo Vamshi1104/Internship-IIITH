@@ -9,6 +9,7 @@ This document captures the instructions to run the simulation.
 1. To run the experiment, simply run the index.html file by clicking on it and the experiment will open in the browser.
 
  ![](images/drawMain.JPG)
+ 
 2. Select the required flow type(laminar,transitional or turbulent) by clicking on the corresponding flow type names available on the left side of the simulator.
 
   ![](images/flowtype.JPG)   
