@@ -21,7 +21,7 @@ This document captures the instructions to run the simulation.
 
 5.Enter the numerics in the corresponding textboxes.Enter only digits and don&#39;t leave any textbox blank.
 
-  ![](images/calculations.JPG)
+  ![](images/Calculations.JPG)
 6.Click on calculate button to obtain the regime of flow and reynolds number from the given numerics.
 
 7.Click on the reset button to set all the textboxes to blank.
